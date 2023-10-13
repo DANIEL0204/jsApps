@@ -1,5 +1,6 @@
 'use strict'; 
-  
+
+console.log('hello world');
  /** 
   * navbar toggle 
   */ 
